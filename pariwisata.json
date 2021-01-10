@@ -10,5 +10,18 @@
 		"alamat" : " Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
         	"pic" : "https://upload.wikimedia.org/wikipedia/id/b/be/Mobil_naga.jpg",
        	 "deskripsi" : "Dunia Fantasi mempunyai maskot berupa kera bekantan yang diberi nama Dufan (singkatan dari Dunia Fantasi). Dipilih kera sebagai karakter adalah untuk mengingatkan bahwa Ancol dahulu adalah kawasan kera."
-	}
+	}, 
+	{
+        "name" : "Taman Margasatwa Ragunan",
+		"alamat" : " Jl. Harsono RM No.1, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+        "pic" : "https://img.inews.co.id/media/822/files/inews_new/2020/05/17/Ragunan__ragunan_zoo_.jpg",
+        "deskripsi" : "Ragunan dikenal karena Kebun Binatang Ragunan, yaitu taman hutan hujan besar dengan pusat primata, gajah, dan harimau Sumatra, serta jalan setapak teduh yang populer di kalangan para pelari."
+    },
+	{
+		"name" : "Monumen Nasional",
+		"alamat" : " Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+        "pic" : "https://blog.roomme.id/wp-content/uploads/2020/08/ilustrasi-monas-2_ratio-16x9-1.jpg",
+        "deskripsi" : "Monumen Nasional atau yang populer disingkat dengan Monas adalah monumen peringatan setinggi 132 meter, didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia untuk merebut kemerdekaan dari Belanda."
+    }
+
 ]
