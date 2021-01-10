@@ -1,35 +1,27 @@
 [
 	{
-		"name" : "Kerak Telor",
-		"sejarah" : "Pada tahun 1970an, masyarakat Betawi mulai memberanikan diri menjajakan kerak telor di pasaran. Tak disangka, banyak orang menyukai makanan ini. Bahkan, dulu kerak telor menjadi makanan favorit masyarakat kelas elit atau atas di Jakarta. Dan seiring dengan berkembangnya waktu, kerak telor menjadi makanan yang disukai 
-                  semua kalangan masyarakat. Harga kerak telor pun semakin terjangkau untuk semua orang.",
-		"deskripsi" : "Kerak telor merupakan makanan khas Betawi yang sering juga disebut sebagai omeletenya orang Betawi. Kerak telor biasanya dijajakan oleh pedagang yang ada di pinggir jalan saat ada perayaan di 
-                   Jakarta baik perayaan memperingati Hari Jadi kota Jakarta maupun Hari Ulang Tahun Republik Indonesia.",
-		"pic" : "https://blog.airpaz.com/wp-content/uploads/Jakarta-Kerak-Telor.png"
+		"name" : "TMII atau Taman Mini Indonesia Indah",
+		"alamat" : " Jl. Taman Mini Indonesia Indah (TMII) Cipayung, Jakarta Timur, DKI Jakarta.",
+		"deskripsi" : "TMII mulai dibangun tahun 1972 dan diresmikan pada tanggal 20 April 1975. Berbagai aspek kekayaan alam dan budaya Indonesia sampai pemanfaatan teknologi modern diperagakan di areal seluas 150 hektare.",
+		"pic" : "https://www.javatravel.net/wp-content/uploads/2019/07/Taman-Mini-Indonesia-Indah.jpg"
 	},
 	{
-		"name" : "Soto Betawi",
-		"sejarah" : "Di tahun 1740, banyak orang Cina yang merantau ke Batavia memutuskan untuk berontak dari Belanda yang saat itu menjajah Indonesia. Pemberontakan ini menghasilkan pertumpahan darah antara orang keturunan Cina dengan tentara Belanda. Di saat inilah, percampuran budaya membaur antara warga asli Betawi dengan pendatang. Belanda pun terus membangun Batavia menjadi pusat pemerintahan 
-                 Belanda pada saat itu. Belanda juga membangun pelabuhan baru setelah Sunda Kelapa bernama Tanjung Priok",
-        	"pic" : "https://sejarahlengkap.com/wp-content/uploads/2017/06/Sejarah-Soto-Betawi-300x217.jpg",
-       	 "deskripsi" : "Soto betawi merupakan salah satu warisan kuliner nusantara yang patut dijaga keberadaannya. Soto ini merupkan soto yang berasal dari Kota Jakarta.
-                        Soto betawi merupakan soto santan dengan isian daging sapi beserta jeroan dan organ hewan lainnya. Banyak orang yang menggemari jenis soto ini"
+		"name" : "Dufan",
+		"alamat" : " Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        	"pic" : "https://upload.wikimedia.org/wikipedia/id/b/be/Mobil_naga.jpg",
+       	 "deskripsi" : "Dunia Fantasi mempunyai maskot berupa kera bekantan yang diberi nama Dufan (singkatan dari Dunia Fantasi). Dipilih kera sebagai karakter adalah untuk mengingatkan bahwa Ancol dahulu adalah kawasan kera."
 	}, 
 	{
-        "name" : "Nasi Ulam",
-		"sejarah" : "nasi ulam tidak dimasak dengan santan, melainkan hanya nasi biasa. Nasi ulam ditaburi dengan serundeng kelapa yang gurih. Teman makan nasi ulam adalah tempe goreng, telur dadar, tauge, timun dan daun semanggi. 
-                    Pelengkap lainnya seperti emping dan bawang goreng",
-        "pic" : "https://www.justrunlah.com/wp-content/uploads/2017/02/Nasi-kerabu-or-nasi-ulam.jpg",
-        "deskripsi" : "hidangan nasi yang dicampur berbagai bumbu dan rempah, khususnya daun pegagan (Centella asiatica) atau kadang diganti daun kemangi, sayuran, dan berbagai bumbu, serta ditemani beberapa macam lauk-pauk. 
-                        Hidangan ini berasal dari khazanah hidangan Melayu, dan terdapat banyak resep dan variasi yang ditemukan baik di Indonesia maupun Malaysia."
+        "name" : "Taman Margasatwa Ragunan",
+		"alamat" : " Jl. Harsono RM No.1, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+        "pic" : "https://img.inews.co.id/media/822/files/inews_new/2020/05/17/Ragunan__ragunan_zoo_.jpg",
+        "deskripsi" : "Ragunan dikenal karena Kebun Binatang Ragunan, yaitu taman hutan hujan besar dengan pusat primata, gajah, dan harimau Sumatra, serta jalan setapak teduh yang populer di kalangan para pelari."
     },
 	{
-		"name" : "Gado-Gado",
-		"sejarah" : "GADO-GADO adalah makanan tradisional asli Indonesia, dalam bahasa sunda disebut lotek. Makanan ini sendiri mirip seperti salad karena berisi beraneka sayur-sayuran rebus. 
-                  Perbedaannya dengan salad adalah pada makanan ini kombinasi sayuran dan bahan-bahan rebusan lainnya disajikan dengan disiram saus kacang",
-        "pic" : "https://informazone.com/wp-content/uploads/2017/09/jakpost.net_.jpg",
-        "deskripsi" : "Sampai sekarang belum bisa dipastikan dari mana asal kata gado-gado. Dalam Kamus Bahasa Indonesia tidak dapat dijelaskan arti kata gado. Bahkan dalam bahasa Betawi yang diyakini 
-                        sebagai tempat munculnya makanan ini, tidak terdapat kata gado yang bisa digunakan untuk menjelaskan arti makanan yang populer ini."
+		"name" : "Monumen Nasional",
+		"alamat" : " Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+        "pic" : "https://blog.roomme.id/wp-content/uploads/2020/08/ilustrasi-monas-2_ratio-16x9-1.jpg",
+        "deskripsi" : "Monumen Nasional atau yang populer disingkat dengan Monas adalah monumen peringatan setinggi 132 meter, didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia untuk merebut kemerdekaan dari Belanda."
     }
 
 ]
