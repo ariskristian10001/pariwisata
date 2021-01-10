@@ -2,11 +2,13 @@
 	{
 		"name" : "TMII atau Taman Mini Indonesia Indah",
 		"alamat" : " Jl. Taman Mini Indonesia Indah (TMII) Cipayung, Jakarta Timur, DKI Jakarta.",
+		"deskripsi" : "TMII mulai dibangun tahun 1972 dan diresmikan pada tanggal 20 April 1975. Berbagai aspek kekayaan alam dan budaya Indonesia sampai pemanfaatan teknologi modern diperagakan di areal seluas 150 hektare.",
 		"pic" : "https://www.javatravel.net/wp-content/uploads/2019/07/Taman-Mini-Indonesia-Indah.jpg"
 	},
 	{
-		"name" : "TMII atau Taman Mini Indonesia Indah",
-		"alamat" : " Jl. Taman Mini Indonesia Indah (TMII) Cipayung, Jakarta Timur, DKI Jakarta.",
-		"pic" : "https://www.javatravel.net/wp-content/uploads/2019/07/Taman-Mini-Indonesia-Indah.jpg"
+		"name" : "Dufan",
+		"alamat" : " Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+        	"pic" : "https://images.app.goo.gl/TES1TMWEvZZm1jwG6",
+       	 "deskripsi" : "Dunia Fantasi mempunyai maskot berupa kera bekantan yang diberi nama Dufan (singkatan dari Dunia Fantasi). Dipilih kera sebagai karakter adalah untuk mengingatkan bahwa Ancol dahulu adalah kawasan kera."
 	}
 ]
