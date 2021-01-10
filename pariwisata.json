@@ -1,16 +1,12 @@
 [
 	{
-		"name" : "Joker",
-		"genre" : "Psychological Thriller",
-		"rating" : 8.7,
-		"tahun" : 2019,
-		"aktor" : "Joaquin Phoenix"
+		"name" : "TMII atau Taman Mini Indonesia Indah",
+		"alamat" : " Jl. Taman Mini Indonesia Indah (TMII) Cipayung, Jakarta Timur, DKI Jakarta.",
+		"pic" : "https://www.javatravel.net/wp-content/uploads/2019/07/Taman-Mini-Indonesia-Indah.jpg"
 	},
 	{
-		"name" : "Logan",
-		"genre" : "Action",
-		"rating" : 8.1,
-		"tahun" : 2017,
-		"aktor" : "Hugh Jackman"
+		"name" : "TMII atau Taman Mini Indonesia Indah",
+		"alamat" : " Jl. Taman Mini Indonesia Indah (TMII) Cipayung, Jakarta Timur, DKI Jakarta.",
+		"pic" : "https://www.javatravel.net/wp-content/uploads/2019/07/Taman-Mini-Indonesia-Indah.jpg"
 	}
 ]
